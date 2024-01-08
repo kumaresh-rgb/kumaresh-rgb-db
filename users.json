@@ -45,7 +45,8 @@
     "isactive": true,
     "address": {
       "area": "banglore"
-    },
+    }
+  },
      {
     "id": "ntuser",
     "name": "ioc",
